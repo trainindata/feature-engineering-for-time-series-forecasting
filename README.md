@@ -21,7 +21,7 @@ Published May, 2021
 
 TBD, leave this curriculum as template.
 
-1. **Exploratory Data Analysis: Choosing a modelling approach **
+1. **Exploratory Data Analysis: Choosing a modelling approach**
 	1. Data Quality: Missing Data
 	2. Data Quality: Outliers and strange values
 	3. Data Quality: Level changes 
