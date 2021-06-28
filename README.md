@@ -1,4 +1,4 @@
-﻿## Machine Learning for Time Series Forecasting - Code Repository
+﻿## Feature Engineering for Time Series - Code Repository
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-success.svg)
 ![Python 3.7](https://img.shields.io/badge/python-3.7-success.svg)
@@ -10,11 +10,11 @@ Published May, 2021
 #TODO
 ## ADD LINKS WITH REFERRAL CODES
 
-[<img src="./mltsf.png" width="248">](https://www.udemy.com/course/machine-learning-for-time-series-forecasting)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
+[<img src="./mltsf.png" width="248">](https://www.udemy.com/course/feature-engineering-for-time-series)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
 
 ## Links
 
-- [Online Course](https://www.udemy.com/course/machine-learning-for-time-series-forecasting)
+- [Online Course](https://www.udemy.com/course/feature-engineering-for-time-series)
 
 
 ## Table of Contents
