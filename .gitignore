@@ -4,6 +4,7 @@
 # datasets
 *.csv
 *.zip
+*.xlsx
 
 # folders
 
