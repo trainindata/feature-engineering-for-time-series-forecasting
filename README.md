@@ -1,6 +1,6 @@
 ﻿## Feature Engineering for Time Series Forecasting - Code Repository
 
-[<img src="images/FETSF_banner.png">](https://www.udemy.com/course/feature-engineering-for-time-series)
+[<img src="images/FETSF_banner.png" width="1500">](https://www.udemy.com/course/feature-engineering-for-time-series)
 
 
 ![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
