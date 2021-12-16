@@ -1,16 +1,17 @@
-﻿## Feature Engineering for Time Series - Code Repository
+﻿## Feature Engineering for Time Series Forecasting - Code Repository
 
-![Python 3.6](https://img.shields.io/badge/python-3.6-success.svg)
-![Python 3.7](https://img.shields.io/badge/python-3.7-success.svg)
-![Python 3.8](https://img.shields.io/badge/python-3.8-success.svg)
-![License](https://img.shields.io/badge/license-BSD-success.svg)
+[<img src="images/FETSF_banner.png" width="1500">](https://www.udemy.com/course/feature-engineering-for-time-series)
 
-Published May, 2021
+
+![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
+[![License https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE)
+[![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
+
+Published May, 2022
 
 #TODO
 ## ADD LINKS WITH REFERRAL CODES
 
-[<img src="./mltsf.png" width="248">](https://www.udemy.com/course/feature-engineering-for-time-series)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com)
 
 ## Links
 
