@@ -35,7 +35,7 @@ Actively maintained.
 	2. Multiplicative and additive models
 	3. Log transform and Box-Cox
 	4. Moving averages
-	5. LOWESS, STL and multiseasonal time series
+	5. LOWESS, STL, and multiseasonal time series decomposition
 
 4. **Missing data imputation**
 	1. Forward and backward filling
@@ -57,11 +57,13 @@ Actively maintained.
 7. **Window features**
 	1. Rolling windows
 	2. Expanding windows
-	3. Creating window features with open-source
+	3. Exponentially weighted windows
+	4. Creating window features with open-source
 
 8. **Trend and seasonality features**
 	1. Trend: regression over time
 	2. Seasonal dummies
+	3. Fourier terms
 
 9. **Datetime features**
 	1. Extracting features from date and time
