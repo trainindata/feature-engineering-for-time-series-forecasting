@@ -65,12 +65,14 @@ Actively maintained.
     2. Polynomial features of time to model non-linear trend
 	3. Changepoints & piecweise linear trends to model non-linear trend
 	4. Forecasting time series with trend using tree-based models
+	5. Creating trend features with open-source
 
 9. **Seasonality features**
 	1. Seasonal lags
 	2. Seasonal dummies
 	3. Seasonal decomposition methods
 	4. Fourier terms
+	5. Creating seasonality features with open-source
 
 10. **Datetime features**
 	1. Extracting features from date and time
