@@ -60,18 +60,27 @@ Actively maintained.
 	3. Exponentially weighted windows
 	4. Creating window features with open-source
 
-8. **Trend and seasonality features**
-	1. Trend: regression over time
-	2. Seasonal dummies
-	3. Fourier terms
+8. **Trend features**
+	1. Using time to model linear trend
+    2. Polynomial features of time to model non-linear trend
+	3. Changepoints & piecweise linear trends to model non-linear trend
+	4. Forecasting time series with trend using tree-based models
+	5. Creating trend features with open-source
 
-9. **Datetime features**
+9. **Seasonality features**
+	1. Seasonal lags
+	2. Seasonal dummies
+	3. Seasonal decomposition methods
+	4. Fourier terms
+	5. Creating seasonality features with open-source
+
+10. **Datetime features**
 	1. Extracting features from date and time
 	2. Periodic features
 	3. Calendar events
 	4. Creating datetime features with open-source
 
-10. **Categorical Features**
+11. **Categorical Features**
 	1. One hot encoding
 	2. Target encoding
 	3. Rolling entropy and rolling majority
